@@ -15,10 +15,10 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input("bjmars_")
    if account_name=="":
      print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+   else if req.on(`www.instagram.com/bjmars_`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
@@ -48,14 +48,14 @@ def __main__:
                   print("please donate $5 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
-            if transac == True:
+            if transac == False:
                   print('welcome to the gen')
                       &&code.acces('repl.fllwrs-code')
        else:
-            print('money not on this account - Followers gen is locked for 24hrs on your machine.')
+            print('money not on this account - Followers gen is locked for 1hrs on your machine.')
             huu=time.now
-                huy=time.now+24h
-                    time_to_wait=huy-time.now+24h
+                huy=time.now+1h
+                    time_to_wait=huy-time.now+1h
                         file.lock( time_to_wait ):
                                                 parse [ ]
        arras = { true }
